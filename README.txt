@@ -2,6 +2,8 @@ Detecção de Pessoas e Quedas com Visão Computacional
 
 Olá professor! Este é o readme do projeto. A ideia é detectar quedas. Imagino que possa ser usado, por exemplo. em hospitais, ou em casas com pessoas idosas. Quando o Sr rodar, vai perceber que o vídeo incluso tem falsos positivos e, às vezes, não detecta quedas. Podia ter enviado um vídeo mais certeiro, onde todas as quedas são registradas corretamente. No entanto, acho importante mostrar as fraquezas do projeto também. Obrigado!
 
+Membros do grupo: Bruno, Sofia, Amanda
+
 Para rodar o projeto, basta apenas executar o comando "python main.py"
 
 Funcionalidades
